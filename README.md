@@ -3,9 +3,9 @@
 
 [![Tests](https://github.com/camel-cdr/bfcpp/workflows/Tests/badge.svg)](https://github.com/camel-cdr/bfcpp/actions?workflow=Tests)
 
-A C99 confirming\* optimizing Brainfuck implementation written (and executed) only using the C preprocessor.
+A C99 conforming\* optimizing Brainfuck implementation written (and executed) only using the C preprocessor.
 
-\*If you find something that does not confirm to the standard or is unspecified/undefined, please open an issue.
+\*If you find something that does not conform to the standard or is unspecified/undefined, please open an issue.
 
 ## Example
 
